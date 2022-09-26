@@ -1,0 +1,52 @@
+{
+  "transactions": [
+    {
+      "description": "Desenvolvimento App",
+      "price": 10000,
+      "category": "Venda",
+      "type": "income",
+      "createdAt": "2022-09-26T18:12:33.689Z",
+      "id": 1
+    },
+    {
+      "description": "Plano Internet",
+      "price": 300,
+      "category": "Despesas",
+      "type": "outcome",
+      "createdAt": "2022-09-26T18:13:17.020Z",
+      "id": 2
+    },
+    {
+      "description": " Desenvolvimento Site",
+      "price": 1200,
+      "category": "Venda",
+      "type": "income",
+      "createdAt": "2022-09-26T18:14:16.568Z",
+      "id": 3
+    },
+    {
+      "description": "Marketing ",
+      "price": 5000,
+      "category": "Despesas",
+      "type": "outcome",
+      "createdAt": "2022-09-26T18:16:55.212Z",
+      "id": 4
+    },
+    {
+      "description": "Desenvolvimento Landing Page",
+      "price": 500,
+      "category": "Venda",
+      "type": "income",
+      "createdAt": "2022-09-26T18:28:53.993Z",
+      "id": 5
+    },
+    {
+      "description": "Notebook",
+      "price": 5600,
+      "category": "Despesas",
+      "type": "outcome",
+      "createdAt": "2022-09-26T18:29:18.990Z",
+      "id": 6
+    }
+  ]
+}
